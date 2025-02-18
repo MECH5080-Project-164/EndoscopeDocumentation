@@ -47,6 +47,12 @@ Push Bowden Tubing into the pneumatic fitting.
 
 ![ChassisMiddle](images/ChassisMiddle1Annotated.png)
 
+An additional part of the chassis middle has a bearing mount that is printed separately and glued into place. This goes above the helical gear and provides a surface for the top bearing to sit on.
+
+![BearingMount](images/BearingSurface.png)
+
+The majority of the external LEDs are mounted on the chassis middle. This is done in a similar manner to the original design.
+
 #### Pi 5 Pin Layout
 
 The Raspberry Pi 5 Pin Layout can be seen in the image below.
@@ -107,4 +113,14 @@ AS seen in the image above and also in location 3 of the first image of this sec
 
 Place the helical gear/insert assembly into the chassis base. Push the nitinol through the bowden and place the chassis middle on top of the chassis base.
 
-Secure the middle chassis to the base chassis and complete the assembly.
+The helical gear uses two 30mm ID 42mm OD bearings. Secure the middle chassis to the base chassis and complete the assembly.
+
+## Wheel Assembly
+
+The wheels are mounted on the middle chassis. A wheel spacer is placed onto the wheel hubs and a 20mm ID 32mm OD bearing is placed on top of the wheel spacer. The wheel is then placed on top of the bearing. Finally, a hub cap is placed on top of the wheel hub and the entire thing secured in place with an M3 screw.
+
+![WheelAssembly1](images/WheelAssembly1.jpg)
+![WheelAssembly2](images/WheelAssembly2.jpg)
+![WheelAssembly3](images/WheelAssembly3.jpg)
+![WheelAssembly4](images/WheelAssembly4.jpg)
+![WheelAssembly5](images/WheelAssembly5.jpg)
