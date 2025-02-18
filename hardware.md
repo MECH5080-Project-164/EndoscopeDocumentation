@@ -1,4 +1,4 @@
-# Endoscope Assembly
+# Endoscope Hardware Assembly
 
 This document describes the assembly of the endoscope.
 
