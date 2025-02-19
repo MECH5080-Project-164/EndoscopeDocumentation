@@ -109,7 +109,7 @@ Push the insert into the outer helical gear ensuring the correct alignment of th
 
 ![WireAttachment3](images/WireAttachment3.jpg)
 
-AS seen in the image above and also in location 3 of the first image of this section, push the camera wire through the hole in the chassis base. Route appropriately to the camera board.
+As seen in the image above and also in location 3 of the first image of this section, push the camera wire through the hole in the chassis base. Route appropriately to the camera board.
 
 Place the helical gear/insert assembly into the chassis base. Push the nitinol through the bowden and place the chassis middle on top of the chassis base.
 
