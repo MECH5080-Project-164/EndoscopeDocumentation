@@ -95,7 +95,7 @@ Tighten the grub screws on the top and bottom of the insert. Take care not to ov
 
 ![CameraInstallation1](images/CameraInstallation1.png)
 
-Push the wire through the hole labelled 1 in the image above. The bearing can be removed to make this easier. The push the wire through hole number 2 from the inside of the insert (central cylinder) into the insert hollow and the out to the top of the insert.
+Push the wire through the hole labelled 1 in the image above. The bearing can be removed to make this easier. Alternatively, this can be done after spooling the camera and the nitinol, though the bearing will need to be removed. Then push the wire through hole number 2 from the inside of the insert (central cylinder) into the insert hollow and the out to the top of the insert.
 
 Next is attaching the camera wire to the nitinol. It should be glued at the end and then affixed with adhesive heat shrink along its length. From testing, this should be at least every 5cm.
 
